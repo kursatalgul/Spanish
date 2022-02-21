@@ -1,6 +1,6 @@
-"import random
 
-dictWords  ="{
+
+dictWords  ={
    "Hola":"Merhaba",
    "Gracias":"Teşekkürler",
    "Por favor":"Lütfen",
@@ -21,7 +21,8 @@ dictWords  ="{
    "Perdón / Perdóname":"Affedersiniz",
    "Eres bienvenido":"Rica ederim",
    "Ayúdame":"Yardım edin"
-}"dictNumbers ="{
+}
+dictNumbers ={
    "Uno":"1",
    "Dos":"2",
    "Tres":"3",
@@ -32,7 +33,8 @@ dictWords  ="{
    "Ocho":"8",
    "Nueve":"9",
    "Diez":"10"
-}"dictPeople ="{
+}
+dictPeople ={
    "Señor":"Bay",
    "Señorita / señora":"Bayan",
    "Bebé":"Bebek",
@@ -43,12 +45,14 @@ dictWords  ="{
    "El padre":"Baba",
    "Hermano (e), Hermana (d)":"Kardeş",
    "El amigo (e), La amiga (d)":"Arkadaş"
-}"dictSeasons ="{
+}
+dictSeasons ={
    "Invierno":"Kış",
    "Primavera":"İlkbahar",
    "Otoño":"Sonbahar",
    "Verano":"Yaz"
-}"dictDays ="{
+}
+dictDays ={
    "Lunes":"Pazartesi",
    "Martes":"Salı",
    "Miércoles":"Çarşamba",
@@ -56,7 +60,8 @@ dictWords  ="{
    "Viernes":"Cuma",
    "Sábado":"Cumartesi",
    "Domingo":"Pazar"
-}"dictColors ="{
+}
+dictColors ={
    "Renk":"Color",
    "Siyah":"Negro",
    "Mavi":"Azul",
@@ -65,7 +70,8 @@ dictWords  ="{
    "Turuncu":"Naranja",
    "Mor":"Morado",
    "Kırmızı":"Rojo"
-}"dictNormal ="{
+}
+dictNormal ={
    "la casa":"ev",
    "la mesa":"masa",
    "la ventana":"pencere",
@@ -97,7 +103,8 @@ dictWords  ="{
    "agua":"su",
    "la iglesia":"kilise",
    "el museo":"müze"
-}"dictVerbs ="{
+}
+dictVerbs ={
    "abrir":"açmak",
    "ayudar":"yardım etmek",
    "bailar":"dans etmek",
@@ -131,7 +138,8 @@ dictWords  ="{
    "tener":"sahip olmak",
    "visitar":"ziyaret etmek",
    "vivir":"yaşamak"
-}"dictQuestions ="{
+}
+dictQuestions ={
    "¿Cómo?":"Nasıl?",
    "¿Cuál?":"Hangisi?",
    "¿Cuándo?":"Ne zaman?",
